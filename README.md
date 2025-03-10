@@ -18,8 +18,11 @@ To install the required packages, run:
 
 Cloning the Repository:
 Clone the repository and navigate to the project directory:
+
     git clone https://github.com/troveski/gps_denied.git
+    
     cd gps_denied
+
 
 -----------------------------------------------------------------------
 How It Works
